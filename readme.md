@@ -1,6 +1,6 @@
 # Descripcion
 
-Mi primer repositorio
+Mi segundo repositorio
 
 ## Desarrollo
 
